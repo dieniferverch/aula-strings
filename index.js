@@ -46,3 +46,12 @@
 
 //listaDeTarefas.splice(tarefaRealizada, 1);
 //console.log(listaDeTarefas);
+
+// DESAFIOS
+//let frase = prompt("Digite uma frase");
+//let a = frase.split(" ")
+//console.log(a)
+
+//let frutas = ["Banana", "Morango", "Abacaxi", "Laranja", "Ameixa"];
+//console.log(frutas.length);
+//console.log(frutas.indexOf("Abacaxi"));
